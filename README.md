@@ -53,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/lkj1313/leethub/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/lkj1313/leethub/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
