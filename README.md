@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/lkj1313/leethub/tree/main/0001-two-sum/) | Easy |
+| [0046-permutations](https://github.com/lkj1313/leethub/tree/main/0046-permutations/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lkj1313/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0704-binary-search](https://github.com/lkj1313/leethub/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/lkj1313/leethub/tree/main/0704-binary-search/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/lkj1313/leethub/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
