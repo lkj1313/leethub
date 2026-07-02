@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lkj1313/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/lkj1313/leethub/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/lkj1313/leethub/tree/main/0242-valid-anagram/) | Easy |
+| [0844-backspace-string-compare](https://github.com/lkj1313/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lkj1313/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/lkj1313/leethub/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/lkj1313/leethub/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/lkj1313/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/lkj1313/leethub/tree/main/0125-valid-palindrome/) | Easy |
+| [0844-backspace-string-compare](https://github.com/lkj1313/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/lkj1313/leethub/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/lkj1313/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
