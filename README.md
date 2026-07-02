@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/lkj1313/leethub/tree/main/0046-permutations/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lkj1313/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0496-next-greater-element-i](https://github.com/lkj1313/leethub/tree/main/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/lkj1313/leethub/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/lkj1313/leethub/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lkj1313/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/lkj1313/leethub/tree/main/0496-next-greater-element-i/) | Easy |
+| [0682-baseball-game](https://github.com/lkj1313/leethub/tree/main/0682-baseball-game/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/lkj1313/leethub/tree/main/0496-next-greater-element-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/lkj1313/leethub/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
