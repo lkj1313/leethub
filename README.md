@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lkj1313/leethub/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/lkj1313/leethub/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lkj1313/leethub/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3174-clear-digits](https://github.com/lkj1313/leethub/tree/main/3174-clear-digits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lkj1313/leethub/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/lkj1313/leethub/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lkj1313/leethub/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3174-clear-digits](https://github.com/lkj1313/leethub/tree/main/3174-clear-digits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/lkj1313/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lkj1313/leethub/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lkj1313/leethub/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3174-clear-digits](https://github.com/lkj1313/leethub/tree/main/3174-clear-digits/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
