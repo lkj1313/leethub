@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lkj1313/leethub/tree/main/0242-valid-anagram/) | Easy |
 | [0844-backspace-string-compare](https://github.com/lkj1313/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/lkj1313/leethub/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lkj1313/leethub/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/lkj1313/leethub/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/lkj1313/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/lkj1313/leethub/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lkj1313/leethub/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
