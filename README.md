@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lkj1313/leethub/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/lkj1313/leethub/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lkj1313/leethub/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/lkj1313/leethub/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/lkj1313/leethub/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lkj1313/leethub/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lkj1313/leethub/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/lkj1313/leethub/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/lkj1313/leethub/tree/main/0125-valid-palindrome/) | Easy |
 | [0844-backspace-string-compare](https://github.com/lkj1313/leethub/tree/main/0844-backspace-string-compare/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/lkj1313/leethub/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
