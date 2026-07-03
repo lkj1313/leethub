@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lkj1313/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lkj1313/leethub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/lkj1313/leethub/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/lkj1313/leethub/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/lkj1313/leethub/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/lkj1313/leethub/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/lkj1313/leethub/tree/main/0704-binary-search/) | Easy |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/lkj1313/leethub/tree/main/0125-valid-palindrome/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/lkj1313/leethub/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lkj1313/leethub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/lkj1313/leethub/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/lkj1313/leethub/tree/main/0844-backspace-string-compare/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/lkj1313/leethub/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Sorting
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lkj1313/leethub/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/lkj1313/leethub/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/lkj1313/leethub/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/lkj1313/leethub/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/lkj1313/leethub/tree/main/0389-find-the-difference/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/lkj1313/leethub/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
