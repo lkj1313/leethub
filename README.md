@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/lkj1313/leethub/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/lkj1313/leethub/tree/main/0014-longest-common-prefix/) | Easy |
 | [0046-permutations](https://github.com/lkj1313/leethub/tree/main/0046-permutations/) | Medium |
 | [0088-merge-sorted-array](https://github.com/lkj1313/leethub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lkj1313/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/lkj1313/leethub/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/lkj1313/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/lkj1313/leethub/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/lkj1313/leethub/tree/main/0242-valid-anagram/) | Easy |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/lkj1313/leethub/tree/main/0561-array-partition/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/lkj1313/leethub/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
