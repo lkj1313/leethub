@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/lkj1313/leethub/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/lkj1313/leethub/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/lkj1313/leethub/tree/main/0496-next-greater-element-i/) | Easy |
+| [0506-relative-ranks](https://github.com/lkj1313/leethub/tree/main/0506-relative-ranks/) | Easy |
 | [0682-baseball-game](https://github.com/lkj1313/leethub/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/lkj1313/leethub/tree/main/0704-binary-search/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lkj1313/leethub/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/lkj1313/leethub/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/lkj1313/leethub/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/lkj1313/leethub/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/lkj1313/leethub/tree/main/0506-relative-ranks/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/lkj1313/leethub/tree/main/0455-assign-cookies/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0506-relative-ranks](https://github.com/lkj1313/leethub/tree/main/0506-relative-ranks/) | Easy |
 <!---LeetCode Topics End-->
