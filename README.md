@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/lkj1313/leethub/tree/main/0046-permutations/) | Medium |
 | [0088-merge-sorted-array](https://github.com/lkj1313/leethub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lkj1313/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217-contains-duplicate](https://github.com/lkj1313/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/lkj1313/leethub/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/lkj1313/leethub/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/lkj1313/leethub/tree/main/0704-binary-search/) | Easy |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/lkj1313/leethub/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/lkj1313/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/lkj1313/leethub/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/lkj1313/leethub/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/lkj1313/leethub/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/lkj1313/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/lkj1313/leethub/tree/main/0242-valid-anagram/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
