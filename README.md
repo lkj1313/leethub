@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lkj1313/leethub/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/lkj1313/leethub/tree/main/0014-longest-common-prefix/) | Easy |
 | [0046-permutations](https://github.com/lkj1313/leethub/tree/main/0046-permutations/) | Medium |
+| [0066-plus-one](https://github.com/lkj1313/leethub/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/lkj1313/leethub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lkj1313/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/lkj1313/leethub/tree/main/0136-single-number/) | Easy |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/lkj1313/leethub/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/lkj1313/leethub/tree/main/0070-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
