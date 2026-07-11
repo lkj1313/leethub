@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/lkj1313/leethub/tree/main/0561-array-partition/) | Easy |
 | [0682-baseball-game](https://github.com/lkj1313/leethub/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/lkj1313/leethub/tree/main/0704-binary-search/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/lkj1313/leethub/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lkj1313/leethub/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lkj1313/leethub/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Hash Table
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lkj1313/leethub/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lkj1313/leethub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/lkj1313/leethub/tree/main/0338-counting-bits/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/lkj1313/leethub/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
