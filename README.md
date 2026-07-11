@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0136-single-number](https://github.com/lkj1313/leethub/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/lkj1313/leethub/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/lkj1313/leethub/tree/main/0191-number-of-1-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/lkj1313/leethub/tree/main/0389-find-the-difference/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -168,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/lkj1313/leethub/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/lkj1313/leethub/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
